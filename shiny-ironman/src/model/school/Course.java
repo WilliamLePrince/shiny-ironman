@@ -7,5 +7,6 @@ public class Course {
 	public Course()
 	{
 		System.out.println("Lol");
+		System.out.println("Lol2");
 	}
 }
