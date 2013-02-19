@@ -8,8 +8,8 @@ import java.util.ArrayList;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-import link.client.Observable;
-import link.client.Observer;
+import link.Observable;
+import link.Observer;
 
 public class ClientWindow extends JFrame implements Observable {
 
