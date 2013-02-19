@@ -11,6 +11,7 @@ import javax.swing.JFrame;
 import link.Observable;
 import link.Observer;
 
+@SuppressWarnings("serial")
 public class ClientWindow extends JFrame implements Observable {
 
 	private JButton Login = new JButton("Login");
